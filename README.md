@@ -10,11 +10,11 @@ Desarrollado para el curso de **Fundamentos de Programación** de la Universidad
 
 ## Autora
 * **Estudiante:** María de los Ángeles Henao Manrique
-* **Grupo:** 213022_500
-* **Programa Académico:** Ingeniería Multimedia
-* **Código Fuente:** Autoría propia
+* **Grupo del curso:** 213022_500
+* **Programa académico:** Ingeniería Multimedia
+* **Código Ffuente:** Autoría propia
 
 ## Resultados de Aprendizaje
-1. **Apropiación Teórica (RA1):** Aplicación de las fases de desarrollo de software para la solución de problemas computacionales.
-2. **Diseño Algorítmico (RA2):** Uso e implementación de estructuras de control condicionales (`if/else`) y operadores lógicos.
-3. **Desarrollo de Soluciones (RA3):** Modularidad mediante funciones con paso de parámetros y control de flujos iterativos con estructuras de repetición (`ciclo for`) para el recorrido de matrices.
+1. **Apropiación teórica (RAC1):** Aplicación de las fases de desarrollo de software para la solución de problemas computacionales.
+2. **Diseño algorítmico (RAC2):** Uso e implementación de estructuras de control condicionales (`if/else`) y operadores lógicos.
+3. **Desarrollo de soluciones (RAC3):** Modularidad mediante funciones con paso de parámetros y control de flujos iterativos con estructuras de repetición (`ciclo for`) para el recorrido de matrices.
